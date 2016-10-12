@@ -1,0 +1,36 @@
+2016-10-12 13:04:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "USER" не найдена
+Table "USER" not found; SQL statement:
+select userentity0_.ID as ID1_0_, userentity0_.NAME as NAME2_0_ from TEST_DB.PUBLIC.USER userentity0_ [42102-190]
+2016-10-12 16:02:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "USER" не найдена
+Table "USER" not found; SQL statement:
+select userentity0_.ID as ID1_0_, userentity0_.NAME as NAME2_0_ from TEST_DB.PUBLIC.USER userentity0_ [42102-190]
+2016-10-12 16:21:26 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "USER" не найдена
+Table "USER" not found; SQL statement:
+select userentity0_.ID as ID1_0_, userentity0_.NAME as NAME2_0_ from TEST_DB.PUBLIC.USER userentity0_ [42102-190]
+2016-10-12 16:21:39 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "USER" не найдена
+Table "USER" not found; SQL statement:
+select userentity0_.ID as ID1_0_, userentity0_.NAME as NAME2_0_ from TEST_DB.PUBLIC.USER userentity0_ [42102-190]
+2016-10-12 16:22:27 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "USER" не найдена
+Table "USER" not found; SQL statement:
+select userentity0_.ID as ID1_0_, userentity0_.NAME as NAME2_0_ from TEST_DB.PUBLIC.USER userentity0_ [42102-190]
+2016-10-12 16:24:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "USER" не найдена
+Table "USER" not found; SQL statement:
+select userentity0_.ID as ID1_0_, userentity0_.NAME as NAME2_0_ from TEST_DB.PUBLIC.USER userentity0_ [42102-190]
+2016-10-12 16:42:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "USER" не найдена
+Table "USER" not found; SQL statement:
+select userentity0_.ID as ID1_0_, userentity0_.NAME as NAME2_0_ from TEST_DB.PUBLIC.USER userentity0_ [42102-190]
+2016-10-12 17:14:27 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "USER" не найдена
+Table "USER" not found; SQL statement:
+select userentity0_.ID as ID1_0_, userentity0_.NAME as NAME2_0_ from TEST_DB.PUBLIC.USER userentity0_ [42102-190]
+2016-10-12 17:16:22 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "USER" не найдена
+Table "USER" not found; SQL statement:
+select userentity0_.ID as ID1_0_, userentity0_.NAME as NAME2_0_ from TEST_DB.PUBLIC.USER userentity0_ [42102-190]

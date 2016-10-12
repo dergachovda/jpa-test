@@ -10,6 +10,6 @@ public class UserDAO {
     private EntityManager entityManager = Persistence.createEntityManagerFactory("persistenceUnit").createEntityManager();
 
     public List<UserEntity> getUserList() {
-        return entityManager.createQuery("select u from UserEntity u ").getResultList();
+        return entityManager.createQuery("select u from UserEntity u").getResultList();
     }
 }

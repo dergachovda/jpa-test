@@ -4,7 +4,7 @@
     <persistence-unit name="persistenceUnit">
         <class>com.models.UserEntity</class>
         <properties>
-            <property name="hibernate.connection.url" value="jdbc:h2:file:D:/test_db"/>
+            <property name="hibernate.connection.url" value="jdbc:h2:file:./db/test_db"/>
             <property name="hibernate.connection.driver_class" value="org.h2.Driver"/>
             <property name="hibernate.connection.username" value=""/>
             <property name="hibernate.connection.password" value=""/>

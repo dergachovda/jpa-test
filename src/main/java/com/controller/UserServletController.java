@@ -16,7 +16,8 @@ public class UserServletController extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 //       req.setAttribute("name", "Nastya");
-//        List<User> userList = new ArrayList<User>(Arrays.asList(new User("name1", 1), new User("name2", 2)));
+//       List<User> userList = new ArrayList<User>(Arrays.asList(new User("name1", 1), new User("name2", 2)));
+
         UserDAO userDAO = new UserDAO();
         req.setAttribute("userList", userDAO.getUserList());
         req.getRequestDispatcher("users.jsp").forward(req, resp);
